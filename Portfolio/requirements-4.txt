@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+joblib
+shap
+yfinance
+boto3
+sagemaker
