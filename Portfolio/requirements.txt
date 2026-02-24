@@ -6,3 +6,4 @@ shap
 yfinance
 boto3
 sagemaker
+matplotlib
