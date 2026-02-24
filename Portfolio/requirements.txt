@@ -5,6 +5,6 @@ joblib
 shap
 yfinance
 boto3
-sagemaker
+sagemaker<3
 matplotlib
 botocore
