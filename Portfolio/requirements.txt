@@ -7,5 +7,4 @@ yfinance
 boto3
 sagemaker
 matplotlib
-sagemaker.predictor
 predictor
