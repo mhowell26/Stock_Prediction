@@ -1,14 +1,3 @@
-numpy
-pandas
-scikit-learn
-joblib
-shap
-yfinance
-boto3
-sagemaker<3
-matplotlib
-botocore
-imbalanced-learn
 numpy==1.26.4
 scipy==1.12.0
 scikit-learn==1.3.2
