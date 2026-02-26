@@ -22,4 +22,17 @@ imbalanced-learn==0.11.0
 nltk==3.9
 textblob==0.19.0
 spacy==3.8.4
+
 backtrader==1.9.74.123
+
+numpy
+pandas
+scikit-learn
+joblib
+shap
+yfinance
+boto3
+sagemaker<3
+matplotlib
+botocore
+imbalanced-learn
