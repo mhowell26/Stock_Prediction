@@ -1,9 +1,8 @@
-streamlit==1.44.1
-numpy==1.26.4
-pandas==2.2.3
-matplotlib==3.9.2
-boto3==1.35.36
-sagemaker==2.237.3
-scikit-learn==1.5.2
-joblib==1.4.2
-shap==0.46.0
+pandas
+numpy
+matplotlib
+scikit-learn
+imbalanced-learn
+joblib
+shap
+streamlit
